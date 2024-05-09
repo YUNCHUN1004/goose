@@ -1,0 +1,53 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "goose",
+    "description": "",
+    "home_page_url": "https://YUNCHUN1004.github.io/goose",
+    "feed_url": "https://YUNCHUN1004.github.io/goose/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "goose"
+    },
+    "items": [
+        {
+            "id": "https://YUNCHUN1004.github.io/goose/ola.html",
+            "url": "https://YUNCHUN1004.github.io/goose/ola.html",
+            "title": "ola",
+            "author": {
+                "name": "goose"
+            },
+            "tags": [
+                   "CV"
+            ],
+            "date_published": "2024-05-09T20:48:55+08:00",
+            "date_modified": "2024-05-09T20:54:40+08:00"
+        },
+        {
+            "id": "https://YUNCHUN1004.github.io/goose/hello.html",
+            "url": "https://YUNCHUN1004.github.io/goose/hello.html",
+            "title": "hello",
+            "image": "https://YUNCHUN1004.github.io/goose/media/posts/2/d11f21ad70576b9f60e3e4cc8c03058f.png",
+            "author": {
+                "name": "goose"
+            },
+            "tags": [
+                   "work"
+            ],
+            "date_published": "2024-05-09T20:48:41+08:00",
+            "date_modified": "2024-05-09T20:54:50+08:00"
+        },
+        {
+            "id": "https://YUNCHUN1004.github.io/goose/hi.html",
+            "url": "https://YUNCHUN1004.github.io/goose/hi.html",
+            "title": "hi",
+            "image": "https://YUNCHUN1004.github.io/goose/media/posts/1/Ma-Ji-Tu.png",
+            "author": {
+                "name": "goose"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-05-09T20:45:13+08:00",
+            "date_modified": "2024-05-09T20:46:09+08:00"
+        }
+    ]
+}

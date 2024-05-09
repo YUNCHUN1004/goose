@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>goose</title>
+    <link href="https://YUNCHUN1004.github.io/goose/feed.xml" rel="self" />
+    <link href="https://YUNCHUN1004.github.io/goose" />
+    <updated>2024-05-09T20:54:50+08:00</updated>
+    <author>
+        <name>goose</name>
+    </author>
+    <id>https://YUNCHUN1004.github.io/goose</id>
+
+    <entry>
+        <title>ola</title>
+        <author>
+            <name>goose</name>
+        </author>
+        <link href="https://YUNCHUN1004.github.io/goose/ola.html"/>
+        <id>https://YUNCHUN1004.github.io/goose/ola.html</id>
+            <category term="CV"/>
+
+        <updated>2024-05-09T20:48:55+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>hello</title>
+        <author>
+            <name>goose</name>
+        </author>
+        <link href="https://YUNCHUN1004.github.io/goose/hello.html"/>
+        <id>https://YUNCHUN1004.github.io/goose/hello.html</id>
+        <media:content url="https://YUNCHUN1004.github.io/goose/media/posts/2/d11f21ad70576b9f60e3e4cc8c03058f.png" medium="image" />
+            <category term="work"/>
+
+        <updated>2024-05-09T20:48:41+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>hi</title>
+        <author>
+            <name>goose</name>
+        </author>
+        <link href="https://YUNCHUN1004.github.io/goose/hi.html"/>
+        <id>https://YUNCHUN1004.github.io/goose/hi.html</id>
+        <media:content url="https://YUNCHUN1004.github.io/goose/media/posts/1/Ma-Ji-Tu.png" medium="image" />
+
+        <updated>2024-05-09T20:45:13+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

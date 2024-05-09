@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://YUNCHUN1004.github.io/goose/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://YUNCHUN1004.github.io/goose/</loc>
+</url>
+<url>
+<loc>https://YUNCHUN1004.github.io/goose/hello.html</loc>
+<lastmod>2024-05-09T20:54:50+08:00</lastmod>
+<image:image>
+<image:loc>https://YUNCHUN1004.github.io/goose/media/posts/2/d11f21ad70576b9f60e3e4cc8c03058f.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://YUNCHUN1004.github.io/goose/hi.html</loc>
+<lastmod>2024-05-09T20:46:09+08:00</lastmod>
+<image:image>
+<image:loc>https://YUNCHUN1004.github.io/goose/media/posts/1/Ma-Ji-Tu.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://YUNCHUN1004.github.io/goose/ola.html</loc>
+<lastmod>2024-05-09T20:54:40+08:00</lastmod>
+</url>
+</urlset>
